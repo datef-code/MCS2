@@ -1,3 +1,6 @@
 .DS_Store
 Thumbs.db
 *.tmp
+
+# 不跟踪网课笔记目录（仅保留本地副本）
+MCS网课笔记/
